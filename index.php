@@ -1,4 +1,4 @@
-<p> workshop manajemen proyek sistem informasi </p>
+<p> update </p>
 
 <?php
 phpinfo () ;
